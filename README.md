@@ -7,3 +7,4 @@ guild is the way on base
 believe in yourself 
 define base
 ask yourself what base is building 
+low fee on base
