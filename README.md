@@ -5,3 +5,4 @@ base is the future
 what is your purpose for building 
 guild is the way on base
 believe in yourself 
+define base
